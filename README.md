@@ -13,8 +13,7 @@ This is my personal portfolio website for showcasing my networking, cybersecurit
 
 ## Live Site
 
-[View Portfolio]([https://Burperryberry.github.io/YOUR-REPO-NAME/](https://burperryberry.github.io/christian-dejesus-portfolio/))
-
+[[View Portfolio](https://burperryberry.github.io/christian-dejesus-portfolio/)]
 ## Included
 
 - Resume
