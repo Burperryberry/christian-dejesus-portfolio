@@ -12,7 +12,7 @@ This is my personal portfolio website for showcasing my networking, cybersecurit
 - CCNA-focused lab work
 
 ## Live Site
-https://burperryberry.github.io/christian-dejesus-portfolio/
+[View My Portfolio](https://burperryberry.github.io/christian-dejesus-portfolio/)
 ## Included
 
 - Resume
