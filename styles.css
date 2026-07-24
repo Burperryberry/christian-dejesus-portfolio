@@ -403,6 +403,12 @@ h3 {
     linear-gradient(135deg, #1d2730, #315f55 48%, #c46f2d);
 }
 
+.visual-four {
+  background:
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.16) 0 1px, transparent 1px 46px),
+    linear-gradient(135deg, #26333b, #526b66 48%, #d3aa61);
+}
+
 .project-body {
   padding: clamp(22px, 3vw, 34px);
 }
